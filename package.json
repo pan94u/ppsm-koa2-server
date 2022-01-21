@@ -21,7 +21,7 @@
     "koa-router": "^7.2.1",
     "koa-session": "^5.10.1",
     "koa-static2": "^0.1.8",
-    "log4js": "^4.2.0",
+    "log4js": "^6.4.0",
     "mysql2": "^1.5.3",
     "nodemailer": "^4.3.0",
     "pm2-intercom": "^1.0.0",
